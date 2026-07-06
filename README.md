@@ -1,2 +1,3 @@
 # Samaria
-This is my first git Repository
+This is my first git RepositoRY
+Author- samaira verma 
